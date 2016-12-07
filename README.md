@@ -3,10 +3,10 @@ This repository contains all the answers for Self-test question section.
 
 ##Chapter 01:
 1. What is Jenkins?
-  A. A continuous integration product
-  B. A continuous delivery product
+* __A continuous integration product__
+* A continuous delivery product
 
-Q2. What makes Jenkins extensible?
+2. What makes Jenkins extensible?
 1.	Plugins
 2.	Open Source Distribution
 
